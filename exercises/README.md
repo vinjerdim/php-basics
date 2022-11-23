@@ -5,5 +5,5 @@ Kumpulkan latihan-latihan berikut ini di [form berikut](https://forms.gle/Fu9VWW
 
 ## 1. Basic HTML
 1. Buka [0_basic_html](./0_basic_html)
-2. Isi file `basic.html` agar bisa menampilkan formulir berikut ini
+2. Isi file `basic.html` agar bisa menampilkan formulir berikut ini<br>
 ![basic_html](./0_basic_html/assets/basic_html.png)
