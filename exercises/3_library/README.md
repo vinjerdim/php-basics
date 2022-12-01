@@ -24,3 +24,7 @@ Keterangan: tidak perlu menggunakan `<form>`<br>
 a. Buat file `table_staff.php` yang menampilkan tabel berikut ini<br>
 Keterangan: tidak perlu menggunakan `<form>`<br>
 ![list_staff](./assets/list_staff.png)<br>
+
+## 5. Form dan Tabel Peminjaman
+a. Buat file `form_table_lending.php` yang menampilkan form dan tabel berikut ini<br>
+![lending](./assets/lending.png)<br>
