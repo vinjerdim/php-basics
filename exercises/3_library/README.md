@@ -19,3 +19,8 @@ b. Buat file `result_staff.php` yang menampilkan hal berikut ini dari form di at
 a. Buat file `table_user.php` yang menampilkan tabel berikut ini<br>
 Keterangan: tidak perlu menggunakan `<form>`<br>
 ![list_user](./assets/list_user.png)<br>
+
+## 4. Tabel Petugas
+a. Buat file `table_staff.php` yang menampilkan tabel berikut ini<br>
+Keterangan: tidak perlu menggunakan `<form>`<br>
+![list_staff](./assets/list_staff.png)<br>
