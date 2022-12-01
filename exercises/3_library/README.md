@@ -14,3 +14,8 @@ Keterangan: Untuk level ada `Staf` dan `Admin`<br>
 ![create_staff](./assets/create_staff.png)<br>
 b. Buat file `result_staff.php` yang menampilkan hal berikut ini dari form di atas<br>
 ![staff](./assets/staff.png)<br>
+
+## 3. Tabel Siswa
+a. Buat file `table_user.php` yang menampilkan tabel berikut ini<br>
+Keterangan: tidak perlu menggunakan `<form>`<br>
+![list_user](./assets/list_user.png)<br>
