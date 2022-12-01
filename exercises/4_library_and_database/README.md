@@ -1,7 +1,5 @@
 # Exercises
 
-Buatlah file-file berikut di folder `perpustakaan`
-
 ## 1. Database
 a. Buka phpmyadmin dan buat database dengan nama `library_<nama_kamu>` (contoh: `library_marvin`)<br>
 b. Buat table `books` dengan isi sebagai berikut<br>
